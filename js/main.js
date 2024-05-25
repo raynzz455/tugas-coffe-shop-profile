@@ -221,9 +221,7 @@ $(document).ready(function(){
         }
     });
 
-
-
-
+    
     //  Start Google map 
 
             // When the window has finished loading create our google map below
