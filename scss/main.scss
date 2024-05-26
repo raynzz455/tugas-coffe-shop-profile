@@ -1,13 +1,12 @@
 
 @import "bootstrap/functions";
 @import "bootstrap/variables";
-
+@import "bootstrap/modal";
 //
 // Grid mixins
 //
 
 @import "bootstrap/mixins/breakpoints";
-
 
 // including variables and mixins
 @import "theme/variables";
